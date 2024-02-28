@@ -1,41 +1,35 @@
-body{
-
-    background-color:  hsl(47, 88%, 63%);
+body {
+    background-color: hsl(47, 88%, 63%);
 }
 
-
-.Card{
-border-radius: 20px;
-border: solid;
-background-color: white;
-width: 21%;
-margin-left: 40%;
-margin-top: 10%;
-padding: 29px;
-box-shadow:7px 7px rgb(0, 0, 0);
-
-
+.card {
+    border-radius: 20px;
+    border: solid;
+    background-color: white;
+    width: 21%;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding: 29px;
+    box-shadow: 7px 7px rgb(0, 0, 0);
 }
 
-img{
-border-radius: 15px;
+img {
+    border-radius: 15px;
 }
 
-.bg-yellow-300{
-margin-top: 15px;
-border-radius: 5px;
-width: 100px;
-height: 30px;
-text-align: center;
+.bg-yellow-300 {
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
 }
 
-
-.font-black{
-margin-top: -20px;
+.font-black {
+    margin-top: -20px;
 }
 
-
-.Nom{
-   margin-left: 75px;
-   margin-top: -40px;
+.nom {
+    margin-left: 75px;
+    margin-top: -40px;
 }
